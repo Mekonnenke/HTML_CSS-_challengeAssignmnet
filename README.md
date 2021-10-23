@@ -14,3 +14,4 @@
  * To re-write this code on agile web development format, I had been broken down eache section of HTML and css code and re- write them semantic format,so it assist me to 
   make my code writing skill healthy/leess error. 
 <img src = "assets/images/README2.jpg" width= "100" height= "50">
+c
