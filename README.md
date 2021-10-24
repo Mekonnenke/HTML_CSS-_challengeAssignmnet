@@ -20,7 +20,7 @@
 # on the repository
  I creat this README to discribe my code info and I uploaad HTML, CSS and images
  in addition some pages and links are included here.  
-<img src = "assets/images/readMe2.jpg" width= "100" height= "50">
+<img src = "assets/images/readMe.jpg" width= "100" height= "50">
 
 
  
