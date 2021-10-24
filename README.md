@@ -5,9 +5,9 @@
 
    The assignment require two links: 
    
-   # The assignmnt deployed link is https://mekonnenke.github.io/HTML_CSS-_challengeAssignmnet/
+   * The assignmnt deployed link is https://mekonnenke.github.io/HTML_CSS-_challengeAssignmnet/
    
-   ![](assets/images/read20%me1.jpg)
+![readMea](https://user-images.githubusercontent.com/90818220/138577178-55d06d6d-24b8-4a08-88ff-c19d7c7f2042.jpg)
 
    # and the assignment repository link is https://github.com/Mekonnenke/HTML_CSS-_challengeAssignmnet
     
