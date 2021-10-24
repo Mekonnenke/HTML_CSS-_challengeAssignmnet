@@ -7,7 +7,7 @@
    
    # The assignmnt deployed link is https://mekonnenke.github.io/HTML_CSS-_challengeAssignmnet/
    
-   ![](assets/images/README1.jpg)
+   ![](assets/images/read20%me1.jpg)
 
    # and the assignment repository link is https://github.com/Mekonnenke/HTML_CSS-_challengeAssignmnet
     
@@ -20,7 +20,7 @@
 # on the repository
  I creat this README to discribe my code info and I uploaad HTML, CSS and images
  in addition some pages and links are included here.  
-<img src = "assets/images/README2.jpg" width= "100" height= "50">
+<img src = "assets/images/readMe2.jpg" width= "100" height= "50">
 
 
  
