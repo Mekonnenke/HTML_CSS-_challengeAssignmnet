@@ -19,8 +19,9 @@
 *  To make more readable this code I change some divs into header main section and footer,  and I add coments for main parts of html and css. 
 # on the repository
  I creat this README to discribe my code info and I uploaad HTML, CSS and images
- in addition some pages and links are included here.  
-<img src = "assets/images/readMe.jpg" width= "100" height= "50">
+ in addition some screenshoots  and links are included here.  
+ ![read20%Meb](https://user-images.githubusercontent.com/90818220/138577266-c9a39a47-b7e8-420b-9efe-3d2244681ec5.jpg)
+
 
 
  
